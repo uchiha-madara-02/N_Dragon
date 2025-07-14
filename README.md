@@ -9,8 +9,8 @@
     - ESP32 S3 sẽ fake wifi mạnh nhất ở gần bạn, thêm dấu chấm ở phía sau đuôi.
     - Truy cập địa chỉ 192.168.4.1 để điều khiển.
  * Nhấn nút 4 lần nữa để tắt (Nếu đang bật).
- * SD card có chức năng như một đầu đọc USB (Dùng thẻ nhớ dưới 32gb và yêu cầu phải có thẻ nhớ mới hoạt động được)
- * Còn lại anh em tự tìm hiểu nhé 😉
+ * SD card có chức năng như một đầu đọc USB. (Dùng thẻ nhớ dưới 32gb và yêu cầu phải có thẻ nhớ mới hoạt động được)
+ * Còn lại anh em tự tìm hiểu nhé 😉.
 
 # Cách nạp ESP32 S3 SUPER MINI
  * B1. Vào web https://espressif.github.io/esptool-js/
