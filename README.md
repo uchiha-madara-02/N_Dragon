@@ -2,13 +2,14 @@
 
 # Chức năng :
  * Nhấn nút 1 lần để chạy file 1.
- * Nhấn nút 2 lần để chạy file 2.
+ * Nhấn nút 2 lần để chạy file 2. (tất cả các file được lưu trong bộ nhớ của ESP32 S3)
  * Nhấn nút 3 lần để Phá wifi all.
  * Nhấn nút 3 lần nữa để tắt (Nếu đang bật).
  * Nhấn nút 4 lần để ESP32 S3 phát ra wifi:
     - ESP32 S3 sẽ fake wifi mạnh nhất ở gần bạn, thêm dấu chấm ở phía sau đuôi.
     - Truy cập địa chỉ 192.168.4.1 để điều khiển.
  * Nhấn nút 4 lần nữa để tắt (Nếu đang bật).
+ * SD card có chức năng như một đầu đọc USB (Dùng thẻ nhớ dưới 32gb và yêu cầu phải có thẻ nhớ mới hoạt động được)
  * Còn lại anh em tự tìm hiểu nhé 😉
 
 # Cách nạp ESP32 S3 SUPER MINI
